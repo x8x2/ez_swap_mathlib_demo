@@ -1,0 +1,15 @@
+{
+  "__entry_css_mods__": {
+    "/Users/chunsenye/Documents/empty/ez_swap_mathlib_demo/src/app/page": [
+      "/Users/chunsenye/Documents/empty/ez_swap_mathlib_demo/src/app/page.module.css",
+      "/Users/chunsenye/Documents/empty/ez_swap_mathlib_demo/src/app/globals.css"
+    ]
+  },
+  "/Users/chunsenye/Documents/empty/ez_swap_mathlib_demo/src/app/page.tsx": [
+    "/Users/chunsenye/Documents/empty/ez_swap_mathlib_demo/node_modules/next/font/google/target.css?{\"path\":\"src/app/page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+    "/Users/chunsenye/Documents/empty/ez_swap_mathlib_demo/src/app/page.module.css"
+  ],
+  "/Users/chunsenye/Documents/empty/ez_swap_mathlib_demo/src/app/layout.tsx": [
+    "/Users/chunsenye/Documents/empty/ez_swap_mathlib_demo/src/app/globals.css"
+  ]
+}
